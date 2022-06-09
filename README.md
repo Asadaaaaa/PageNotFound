@@ -12,6 +12,12 @@
 </div>
 
 <div align="center">
+	<h2>Preview</h2>
+</div>
+
+![](http://i.imgur.com/OUkLi.gif)
+
+<div align="center">
 	<h2>Information</h2>
 </div>
 
