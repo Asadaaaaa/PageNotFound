@@ -1,4 +1,5 @@
 <div align="center">
+	<h1>Page Not Found</h1>
 	<p>
 		This is the page for conditions if the client accesses an unavailable page
 	</p>
