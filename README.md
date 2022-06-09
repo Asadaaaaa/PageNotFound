@@ -15,7 +15,7 @@
 	<h2>Preview</h2>
 </div>
 
-![](http://i.imgur.com/OUkLi.gif)
+![]([http://i.imgur.com/OUkLi.gif](https://github.com/Asadaaaaa/PageNotFound/blob/main/preview.gif?raw=true))
 
 <div align="center">
 	<h2>Information</h2>
