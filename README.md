@@ -16,6 +16,8 @@
 	<img src="preview.gif"></img>
 </div>
 
+<br>
+
 <div align="center">
 	<h2>Information</h2>
 </div>
