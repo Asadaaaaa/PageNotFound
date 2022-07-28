@@ -13,7 +13,7 @@
 
 <div align="center">
 	<h2>Preview</h2>
-	![](https://raw.githubusercontent.com/Asadaaaaa/PageNotFound/main/preview.gif)
+	<img src="preview.gif"></img>
 </div>
 
 <div align="center">
