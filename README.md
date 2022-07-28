@@ -13,9 +13,8 @@
 
 <div align="center">
 	<h2>Preview</h2>
+	![](https://raw.githubusercontent.com/Asadaaaaa/PageNotFound/main/preview.gif)
 </div>
-
-![](https://raw.githubusercontent.com/Asadaaaaa/PageNotFound/main/preview.gif)
 
 <div align="center">
 	<h2>Information</h2>
